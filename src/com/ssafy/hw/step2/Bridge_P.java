@@ -14,8 +14,8 @@ public class Bridge_P {
 		int[][] map = new int[n][n];
 		
 		// 지도 정보 입력 받기
-		for ( _____ ; ______ ; _____ ) {
-			for ( ______ ; _____ ; _____ ) {
+		for ( dsfsafds ; ______ ; _____ ) {
+			for ( ______ ; __sdafsafasfw___ ; _____ ) {
 				map[__][__] = sc.nextInt();
 			}
 		}
