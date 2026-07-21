@@ -1,6 +1,7 @@
 package com.ssafy.hw.step2;
 
-import java.util.Scanner;
+import java.util.*;
+import java.io.*;
 
 public class Bridge_P {
 
